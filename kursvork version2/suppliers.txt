@@ -1,0 +1,7 @@
+electronica;Acer Mega Computer;10000;534;5340000;230
+5element;computer 121931;123;100000;12300000;10
+apple;macintosh1;20;1200000;24000000;10
+integral;belcomputer;100;500;50000;10
+eldorado;Honor Magic Book;100;11;1100;123
+Xiaomi;Notebook 1;100;34;3400;10
+electrosila.by;Dell 7;10;1000;10000;2
